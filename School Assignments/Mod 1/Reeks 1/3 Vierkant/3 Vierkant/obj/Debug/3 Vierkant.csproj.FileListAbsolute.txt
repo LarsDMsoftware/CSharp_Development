@@ -1,0 +1,5 @@
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\3 Vierkant\3 Vierkant\bin\Debug\3 Vierkant.exe.config
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\3 Vierkant\3 Vierkant\bin\Debug\3 Vierkant.exe
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\3 Vierkant\3 Vierkant\bin\Debug\3 Vierkant.pdb
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\3 Vierkant\3 Vierkant\obj\Debug\3 Vierkant.exe
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\3 Vierkant\3 Vierkant\obj\Debug\3 Vierkant.pdb

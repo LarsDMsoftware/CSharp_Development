@@ -1,0 +1,6 @@
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\2 Getallen\2 Getallen\bin\Debug\2 Getallen.exe.config
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\2 Getallen\2 Getallen\bin\Debug\2 Getallen.exe
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\2 Getallen\2 Getallen\bin\Debug\2 Getallen.pdb
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\2 Getallen\2 Getallen\obj\Debug\2 Getallen.csprojResolveAssemblyReference.cache
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\2 Getallen\2 Getallen\obj\Debug\2 Getallen.exe
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\2 Getallen\2 Getallen\obj\Debug\2 Getallen.pdb

@@ -1,0 +1,5 @@
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\6 Gemiddelde\6 Gemiddelde\bin\Debug\6 Gemiddelde.exe.config
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\6 Gemiddelde\6 Gemiddelde\bin\Debug\6 Gemiddelde.exe
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\6 Gemiddelde\6 Gemiddelde\bin\Debug\6 Gemiddelde.pdb
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\6 Gemiddelde\6 Gemiddelde\obj\Debug\6 Gemiddelde.exe
+C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\6 Gemiddelde\6 Gemiddelde\obj\Debug\6 Gemiddelde.pdb
