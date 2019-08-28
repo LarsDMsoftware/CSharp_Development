@@ -29,8 +29,8 @@ namespace BasicClasses
         }
 
         //Here we overload the Greeting Constructor, so if we create an Object with -> Greeting greeting = new Greeting("Lars");
-        //Lana will be used as default for recipient.
-        public Greeting(string name) : this(name, "Lana")
+        //John will be used as default for recipient.
+        public Greeting(string name) : this(name, "John")
         { }
 
         public override string ToString()
