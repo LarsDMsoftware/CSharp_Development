@@ -10,37 +10,21 @@ namespace _2_Getallen
     {
         static void Main(string[] args)
         {
-            // Variablen declareren
-            int getal1;
-            int getal2;
-            int som;
-            int deling;
-            double doubleSom;
-            double doubleDeling;
+            int intnum1, intnum2;
+            double doublenum1, doublenum2;
 
-            // Ints inlezen
-            Console.WriteLine("Geef 2 getallen in: ");
-            getal1 = int.Parse(Console.ReadLine());
-            getal2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("Please insert 2 integer numbers: ");
+            intnum1 = int.Parse(Console.ReadLine());
+            intnum2 = int.Parse(Console.ReadLine());
+            Console.WriteLine("{0} + {1} = {2}", intnum1, intnum2, intnum1 + intnum2);
+            Console.WriteLine("{0} / {1} = {2}", intnum1, intnum2, intnum1 / intnum2);
             
-            // Ints/Doubles verwerken
-            //Ints optellen
-            som = getal1 + getal2;
-
-            //Ints delen
-            deling = getal1 / getal2;
-
-            //Doubles optellen
-            doubleSom = (double)getal1 + getal2;
-
-            //Doubles delen
-            doubleDeling = (double)getal1 / getal2;
-
-            //Delingen en sommen afdrukken
-            Console.WriteLine("Som van de 2 getallen is: " + som);
-            Console.WriteLine("Deling van de 2 getallen is: " + deling);
-            Console.WriteLine("Som als double van de 2 getallen is: " + doubleSom);
-            Console.WriteLine("Delins als double van de 2 getallen is: " + doubleDeling);
+            Console.WriteLine("Please insert 2 double numbers: ");
+            doublenum1 = double.Parse(Console.ReadLine());
+            doublenum2 = double.Parse(Console.ReadLine());
+            Console.WriteLine("{0} + {1} = {2}", doublenum1, doublenum2, doublenum1 + doublenum2);
+            Console.WriteLine("{0} / {1} = {2}", doublenum1, doublenum2, doublenum1 / doublenum2);
+        
         }
     }
 }
