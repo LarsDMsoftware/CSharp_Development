@@ -1,0 +1,10 @@
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\bin\Debug\netcoreapp2.1\H1-Optellen.deps.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\bin\Debug\netcoreapp2.1\H1-Optellen.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\bin\Debug\netcoreapp2.1\H1-Optellen.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\bin\Debug\netcoreapp2.1\H1-Optellen.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\bin\Debug\netcoreapp2.1\H1-Optellen.pdb
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\obj\Debug\netcoreapp2.1\H1-Optellen.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\obj\Debug\netcoreapp2.1\H1-Optellen.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\obj\Debug\netcoreapp2.1\H1-Optellen.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\obj\Debug\netcoreapp2.1\H1-Optellen.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-Optellen\H1-Optellen\obj\Debug\netcoreapp2.1\H1-Optellen.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H1-variabelen_hoofdletters", "H1-variabelen_hoofdletters\H1-variabelen_hoofdletters.csproj", "{70959D33-4EC3-44BF-9DAC-F8136C7A45B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70959D33-4EC3-44BF-9DAC-F8136C7A45B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70959D33-4EC3-44BF-9DAC-F8136C7A45B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70959D33-4EC3-44BF-9DAC-F8136C7A45B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70959D33-4EC3-44BF-9DAC-F8136C7A45B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1FC0A60-2DF4-49B9-9EEC-6E2E4F8E0800}
+	EndGlobalSection
+EndGlobal

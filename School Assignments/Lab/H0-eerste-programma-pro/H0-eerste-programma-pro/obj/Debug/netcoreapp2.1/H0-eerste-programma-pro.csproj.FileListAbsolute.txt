@@ -1,0 +1,10 @@
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\bin\Debug\netcoreapp2.1\H0-eerste-programma-pro.deps.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\bin\Debug\netcoreapp2.1\H0-eerste-programma-pro.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\bin\Debug\netcoreapp2.1\H0-eerste-programma-pro.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\bin\Debug\netcoreapp2.1\H0-eerste-programma-pro.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\bin\Debug\netcoreapp2.1\H0-eerste-programma-pro.pdb
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\obj\Debug\netcoreapp2.1\H0-eerste-programma-pro.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\obj\Debug\netcoreapp2.1\H0-eerste-programma-pro.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\obj\Debug\netcoreapp2.1\H0-eerste-programma-pro.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\obj\Debug\netcoreapp2.1\H0-eerste-programma-pro.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma-pro\H0-eerste-programma-pro\obj\Debug\netcoreapp2.1\H0-eerste-programma-pro.pdb

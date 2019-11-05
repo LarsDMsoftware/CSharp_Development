@@ -1,0 +1,11 @@
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\bin\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.deps.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\bin\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\bin\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\bin\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\bin\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.pdb
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\obj\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.csprojAssemblyReference.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\obj\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\obj\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\obj\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\obj\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H1-variabelen_hoofdletters\H1-variabelen_hoofdletters\obj\Debug\netcoreapp2.1\H1-variabelen_hoofdletters.pdb

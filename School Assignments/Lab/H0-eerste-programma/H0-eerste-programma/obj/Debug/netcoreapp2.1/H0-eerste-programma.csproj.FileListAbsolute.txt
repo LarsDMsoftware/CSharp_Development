@@ -1,0 +1,11 @@
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\bin\Debug\netcoreapp2.1\H0-eerste-programma.deps.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\bin\Debug\netcoreapp2.1\H0-eerste-programma.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\bin\Debug\netcoreapp2.1\H0-eerste-programma.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\bin\Debug\netcoreapp2.1\H0-eerste-programma.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\bin\Debug\netcoreapp2.1\H0-eerste-programma.pdb
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\obj\Debug\netcoreapp2.1\H0-eerste-programma.csprojAssemblyReference.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\obj\Debug\netcoreapp2.1\H0-eerste-programma.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\obj\Debug\netcoreapp2.1\H0-eerste-programma.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\obj\Debug\netcoreapp2.1\H0-eerste-programma.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\obj\Debug\netcoreapp2.1\H0-eerste-programma.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\H0-eerste-programma\H0-eerste-programma\obj\Debug\netcoreapp2.1\H0-eerste-programma.pdb
