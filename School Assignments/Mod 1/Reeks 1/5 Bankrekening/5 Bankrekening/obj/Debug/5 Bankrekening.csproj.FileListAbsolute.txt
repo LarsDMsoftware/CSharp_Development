@@ -1,6 +1,0 @@
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\5 Bankrekening\5 Bankrekening\bin\Debug\5 Bankrekening.exe.config
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\5 Bankrekening\5 Bankrekening\bin\Debug\5 Bankrekening.exe
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\5 Bankrekening\5 Bankrekening\bin\Debug\5 Bankrekening.pdb
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\5 Bankrekening\5 Bankrekening\obj\Debug\5 Bankrekening.csprojResolveAssemblyReference.cache
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\5 Bankrekening\5 Bankrekening\obj\Debug\5 Bankrekening.exe
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\5 Bankrekening\5 Bankrekening\obj\Debug\5 Bankrekening.pdb

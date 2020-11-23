@@ -1,5 +1,0 @@
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\4 Balk Berekenen\4 Balk Berekenen\bin\Debug\4 Balk Berekenen.exe.config
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\4 Balk Berekenen\4 Balk Berekenen\bin\Debug\4 Balk Berekenen.exe
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\4 Balk Berekenen\4 Balk Berekenen\bin\Debug\4 Balk Berekenen.pdb
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\4 Balk Berekenen\4 Balk Berekenen\obj\Debug\4 Balk Berekenen.exe
-C:\Users\Larsie\Desktop\C#\Mod 1\Reeks 1\4 Balk Berekenen\4 Balk Berekenen\obj\Debug\4 Balk Berekenen.pdb

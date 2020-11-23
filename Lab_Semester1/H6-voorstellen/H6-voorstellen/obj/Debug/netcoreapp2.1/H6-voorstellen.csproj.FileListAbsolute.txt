@@ -1,0 +1,10 @@
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\bin\Debug\netcoreapp2.1\H6-voorstellen.deps.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\bin\Debug\netcoreapp2.1\H6-voorstellen.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\bin\Debug\netcoreapp2.1\H6-voorstellen.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\bin\Debug\netcoreapp2.1\H6-voorstellen.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\bin\Debug\netcoreapp2.1\H6-voorstellen.pdb
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\obj\Debug\netcoreapp2.1\H6-voorstellen.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\obj\Debug\netcoreapp2.1\H6-voorstellen.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\obj\Debug\netcoreapp2.1\H6-voorstellen.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\obj\Debug\netcoreapp2.1\H6-voorstellen.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-voorstellen\H6-voorstellen\obj\Debug\netcoreapp2.1\H6-voorstellen.pdb

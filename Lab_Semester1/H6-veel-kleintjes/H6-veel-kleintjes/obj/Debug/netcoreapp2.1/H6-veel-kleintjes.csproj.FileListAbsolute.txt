@@ -1,0 +1,11 @@
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\obj\Debug\netcoreapp2.1\H6-veel-kleintjes.csprojAssemblyReference.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\obj\Debug\netcoreapp2.1\H6-veel-kleintjes.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\obj\Debug\netcoreapp2.1\H6-veel-kleintjes.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\obj\Debug\netcoreapp2.1\H6-veel-kleintjes.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\bin\Debug\netcoreapp2.1\H6-veel-kleintjes.deps.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\bin\Debug\netcoreapp2.1\H6-veel-kleintjes.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\bin\Debug\netcoreapp2.1\H6-veel-kleintjes.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\bin\Debug\netcoreapp2.1\H6-veel-kleintjes.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\bin\Debug\netcoreapp2.1\H6-veel-kleintjes.pdb
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\obj\Debug\netcoreapp2.1\H6-veel-kleintjes.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H6-veel-kleintjes\H6-veel-kleintjes\obj\Debug\netcoreapp2.1\H6-veel-kleintjes.pdb

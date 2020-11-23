@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H4-Ruimte-Specifiek", "H4-Ruimte-Specifiek\H4-Ruimte-Specifiek.csproj", "{0C8C385A-D7BF-438E-B2BB-DFE00D108A23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C8C385A-D7BF-438E-B2BB-DFE00D108A23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8C385A-D7BF-438E-B2BB-DFE00D108A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8C385A-D7BF-438E-B2BB-DFE00D108A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8C385A-D7BF-438E-B2BB-DFE00D108A23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0617C57-CBE4-4FF8-A914-361A14CA5365}
+	EndGlobalSection
+EndGlobal

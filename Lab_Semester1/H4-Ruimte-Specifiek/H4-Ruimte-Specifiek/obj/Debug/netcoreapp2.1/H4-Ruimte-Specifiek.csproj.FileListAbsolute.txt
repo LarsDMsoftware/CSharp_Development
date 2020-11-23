@@ -1,0 +1,10 @@
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\bin\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.deps.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\bin\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.runtimeconfig.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\bin\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.runtimeconfig.dev.json
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\bin\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\bin\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.pdb
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\obj\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.csproj.CoreCompileInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\obj\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.AssemblyInfoInputs.cache
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\obj\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.AssemblyInfo.cs
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\obj\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.dll
+C:\Users\Larsie\Desktop\School\Semester 1\Programeren\Lab\H4-Ruimte-Specifiek\H4-Ruimte-Specifiek\obj\Debug\netcoreapp2.1\H4-Ruimte-Specifiek.pdb
